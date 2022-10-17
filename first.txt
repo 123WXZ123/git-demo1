@@ -7,3 +7,4 @@ hello txt
 
 hello git	nnnnnnnnn
 hello git    mmmmmm	
+hello pull hello push ,,,,,,,,,,,
